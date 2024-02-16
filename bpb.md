@@ -1,4 +1,4 @@
-{
+[{
     "dns": {
         "hosts": {
             "geosite:category-ads-all": "127.0.0.1",
@@ -197,3 +197,4 @@
     },
     "stats": {}
 }
+](https://bpb.newfinisher.workers.dev/frag/bee0ee58-67bc-4ac5-b8c8-c66084d4a84a?addr=bpb.newfinisher.workers.dev)https://bpb.newfinisher.workers.dev/frag/bee0ee58-67bc-4ac5-b8c8-c66084d4a84a?addr=bpb.newfinisher.workers.dev
