@@ -1,0 +1,73 @@
+{
+
+  "outbounds": 
+
+  [
+
+    {
+
+      "type": "wireguard",
+
+      "tag": "Warp-IR",
+
+      "server": "162.159.192.210",
+
+      "server_port": 939,
+
+      "local_address": [
+
+        "172.16.0.2/32",
+
+        "2606:4700:110:8dba:b949:f1b9:2097:facb/128"
+
+      ],
+
+      "private_key": "mOCgqK+F9m1ISr1/vEykJ3RDLCdbPgYF4XCKK2AvSVI=",
+
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+
+      "reserved": [42,50,47],
+
+      "mtu": 1280,
+
+      "fake_packets": "5-10"
+
+    },
+
+    {
+
+      "type": "wireguard",
+
+      "tag": "Warp-Main",
+
+      "detour": "Warp-IR",
+
+      "server": "162.159.192.210",
+
+      "server_port": 939,
+
+      
+
+      "local_address": [
+
+          "172.16.0.2/32",
+
+          "2606:4700:110:8031:7231:5f0:445b:7adc/128"
+
+      ],
+
+      "private_key": "oA+lGkqUMgcriREHVNVJfg4xiOBcp9BZui8lMfz4V2E=",
+
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+
+      "reserved": [231,57,133],  
+
+      "mtu": 1120,
+
+      "fake_packets": "5-10"
+
+    }
+
+  ]
+
+}
