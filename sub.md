@@ -1,1 +1,2 @@
+vless://2de2b89e-6488-4100-b9ae-bff4c288c61a@194.33.28.15:8008?encryption=none&security=none&type=tcp&headerType=http&host=nobitex.ir#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.24.142:2096?encryption=none&security=tls&sni=BPbp.KMEvpS.iR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpBp.KmeVps.IR&path=%2FEHqNKpqotMud8WgU%2FMjAyLjYxLjE5My4yNDg%3D%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%60
